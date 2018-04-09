@@ -1,0 +1,13 @@
+inicio = 66, 87, 818, 712, C, 22, 29, 774, 654, C
+nuevoparte = 44, 58, 796, 683, C, 22, 29, 774, 654, C
+Module1 = 22, 29, 442, 639, C
+consultarparte = 49, 176, 885, 743, C, 66, 87, 813, 712, C
+modificarparte = 220, 290, 967, 915, C, 110, 145, 857, 770, C
+anularparte = 66, 87, 813, 712, C, 44, 58, 791, 683, C
+listadonparte = 0, 0, 747, 625, C, 22, 29, 769, 654, C
+Impnuevoparte = 154, 203, 901, 824, C, 18, 36, 765, 657, C
+Impconsultarparte = 132, 174, 879, 795, C, 88, 116, 835, 737, C
+Impmodificarparte = 154, 203, 901, 824, C, 132, 174, 879, 795, C
+listadofecha = 203, 203, 828, 816, C, 58, 58, 683, 671, C
+listadopartenulo = 232, 232, 857, 845, C, 203, 203, 828, 816, C
+listadocliente = 145, 145, 770, 758, C, 116, 116, 741, 729, C
