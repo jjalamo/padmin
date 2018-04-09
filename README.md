@@ -1,2 +1,3 @@
 # padmin
-Gestión de las entradas y salidas de huéspedes de hotel, gestión de habitaciones y reservas
+Gestion de entradas y salidas de huespedes de hotel.
+gestion de  habitaciones y reservas de habitacion.
