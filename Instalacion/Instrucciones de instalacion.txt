@@ -1,0 +1,2 @@
+1.- ejecutar setup.exe
+2.- copiar la base de datos "/BD/padminbd.mdb" en la ruta "c:/padmin/BD/padminbd.mdb"
